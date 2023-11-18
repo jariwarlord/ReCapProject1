@@ -1,0 +1,14 @@
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\Business.dll
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\DataAcess.dll
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\Entities.dll
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\Business.pdb
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\DataAcess.pdb
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\bin\Debug\Entities.pdb
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\berke\Desktop\ReCapProject1\ConsoleUI\obj\Debug\ConsoleUI.pdb

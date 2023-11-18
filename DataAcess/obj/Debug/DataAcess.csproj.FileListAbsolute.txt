@@ -1,0 +1,9 @@
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\bin\Debug\Entities.dll
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\bin\Debug\Entities.pdb
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\obj\Debug\DataAcess.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\berke\Desktop\ReCapProject1\DataAcess\obj\Debug\DataAcess.pdb

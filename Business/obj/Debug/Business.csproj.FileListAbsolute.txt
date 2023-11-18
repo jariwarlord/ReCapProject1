@@ -1,0 +1,11 @@
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\Business.dll
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\Business.pdb
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\DataAcess.dll
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\Entities.dll
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\DataAcess.pdb
+C:\Users\berke\Desktop\ReCapProject1\Business\bin\Debug\Entities.pdb
+C:\Users\berke\Desktop\ReCapProject1\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\ReCapProject1\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\ReCapProject1\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\berke\Desktop\ReCapProject1\Business\obj\Debug\Business.dll
+C:\Users\berke\Desktop\ReCapProject1\Business\obj\Debug\Business.pdb
