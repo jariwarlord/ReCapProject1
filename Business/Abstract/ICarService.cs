@@ -9,6 +9,6 @@ namespace Business
 {
     public interface ICarService
     {
-        List<Car> GetAll();
+        List<Cars> GetAll();
     }
 }
